@@ -18,7 +18,7 @@ public class AppController {
 
     @GetMapping(path = "/hello-world")
     public String helloWorld() {
-        return "Hello World " + " V3 " + instanceInfoService.getInstanceInfo();
+        return "Hello World " + " V2 " + instanceInfoService.getInstanceInfo();
     }
 
 }
