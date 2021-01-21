@@ -1,2 +1,2 @@
 # expnese
-Expense Tracker GCP - Kumbernetes
+Expense Tracker GCP - Docker, Kubernetes
